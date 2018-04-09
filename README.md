@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Publically available data sets 
 
-You can use the [editor on GitHub](https://github.com/marialma/Public-Data-Sets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here's a small list of publically available data sources. DM me on [Twitter](http://twitter.com/guacamolebio) or open a pull request if you have any sources you'd like to contribute!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### US Government-based sources
+* [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com) - Contains mostly infrastructure-based geospatial data (such as schools, hospitals, airplane runways, etc). Includes shapefiles. 
+    - _This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more._
+* [Geospatial Platform](https://www.geoplatform.gov) - Super useful if you're interested in national level geospatial stuff.
+    -_The GeoPlatform provides shared and trusted geospatial data, services, and applications for use by the public and by government agencies and partners to meet their mission needs._
+* [USDA Economic Research Service](https://www.ers.usda.gov/data-products/) - All sorts of data related to agriculture and the agricultural trade in the US. 
+    - _The mission of USDA's Economic Research Service is to anticipate trends and emerging issues in agriculture, food, the environment, and rural America and to conduct high-quality, objective economic research to inform and enhance public and private decision making_
+* [National Agricultural Statistics Service](https://www.nass.usda.gov) - 
+    - _Timely, accurate, and useful statistics in service to U.S. agriculture_
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marialma/Public-Data-Sets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other
+* [Humanitarian Data Exchange](https://data.humdata.org) - "Humanitarian data", meaning data relevant to humanitarian crises. This could include baseline data, demographic information, data about aid organizations.
+* [Harvard Dataverse](https://dataverse.harvard.edu) - Open source repository for research data. Take individual data sources here with a grain of salt, and make sure you really understand how the data was collected...
