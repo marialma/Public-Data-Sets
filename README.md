@@ -1,8 +1,12 @@
 ## Publically available data sets 
 
-Here's a small list of publically available data sources. DM me on [Twitter](http://twitter.com/guacamolebio) or open a pull request if you have any sources you'd like to contribute!
+As someone who's trying to build skills around data visualization and data analysis, I've gotten somewhat frustrated at not being able to find data to work with. There's a lot of publically available data out there, in formats that are intended to be useful, but it's sometimes hard to find. 
+
+Here's a small list of publically available data sources, of variable quality. DM me on [Twitter](http://twitter.com/guacamolebio) or open a pull request if you have any sources you'd like to contribute!
 
 ### US Government-based sources
+* [US Census](https://www.census.gov/) - Obviously the first place you go to for demographic data about the US. Also contains useful little bits, such as [geographic data](https://www.census.gov/geo/). 
+* [CDC NHANES survey](https://www.cdc.gov/nchs/nhanes/index.htm) - cross-sectional survey of health & nutritional status of the US population. Make sure you understand the survey methods! 
 * [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com) - Contains mostly infrastructure-based geospatial data (such as schools, hospitals, airplane runways, etc). Includes shapefiles. 
     - _This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more._
 * [Geospatial Platform](https://www.geoplatform.gov) - Super useful if you're interested in national level geospatial stuff.
