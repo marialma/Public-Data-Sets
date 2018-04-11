@@ -15,6 +15,8 @@ Here's a small list of publically available data sources, of variable quality. D
     - _The mission of USDA's Economic Research Service is to anticipate trends and emerging issues in agriculture, food, the environment, and rural America and to conduct high-quality, objective economic research to inform and enhance public and private decision making_
 * [National Agricultural Statistics Service](https://www.nass.usda.gov) - 
     - _Timely, accurate, and useful statistics in service to U.S. agriculture_
+* [NASA Prognostics Data Repository](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) -
+    - _A collection of data sets that have been donated by various universities, agencies, or companies. The data repository focuses exclusively on prognostic data sets, i.e., data sets that can be used for development of prognostic algorithms. Mostly these are time series of data from some nominal state to a failed state. The collection of data in this repository is an ongoing process._
 
 ### Other
 * [Humanitarian Data Exchange](https://data.humdata.org) - "Humanitarian data", meaning data relevant to humanitarian crises. This could include baseline data, demographic information, data about aid organizations.
