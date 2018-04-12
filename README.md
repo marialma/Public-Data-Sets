@@ -26,4 +26,5 @@ Here's a small list of publically available data sources, of variable quality. D
 * [Humanitarian Data Exchange](https://data.humdata.org) - "Humanitarian data", meaning data relevant to humanitarian crises. This could include baseline data, demographic information, data about aid organizations.
 * [Harvard Dataverse](https://dataverse.harvard.edu) - Open source repository for research data. Take individual data sources here with a grain of salt, and make sure you really understand how the data was collected...
 * [OCC Oil and Gas Data Files](http://www.occeweb.com/og/ogdatafiles2.htm) - Data related to mining/drilling activities
+* [New York Public Library - What's on the menu?](http://menus.nypl.org) - A giant collection of 100 years worth of restaurant menus.
 
