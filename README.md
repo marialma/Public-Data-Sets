@@ -17,6 +17,8 @@ Here's a small list of publically available data sources, of variable quality. D
     - _Timely, accurate, and useful statistics in service to U.S. agriculture_
 * [NASA Prognostics Data Repository](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) -
     - _A collection of data sets that have been donated by various universities, agencies, or companies. The data repository focuses exclusively on prognostic data sets, i.e., data sets that can be used for development of prognostic algorithms. Mostly these are time series of data from some nominal state to a failed state. The collection of data in this repository is an ongoing process._
+* [NCEI Land-based Station Data](https://www.ncdc.noaa.gov/data-access/land-based-station-data) - A whole lot of weather data.
+    - _Land-based observations are collected from instruments sited at locations on every continent. They include temperature, dew point, relative humidity, precipitation, wind speed and direction, visibility, atmospheric pressure, and types of weather occurrences such as hail, fog, and thunder._
 
 ### Other
 * [World Bank Open Data](https://data.worldbank.org) - Free and open access to world development data
