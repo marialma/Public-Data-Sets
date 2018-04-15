@@ -9,6 +9,7 @@ This list is currently loosely sorted by 'type' of data. I do not currently have
  * [US Government-based sources](#us-government-based-sources)
  * [Other](#other)
  * [Fun things](#fun-things)
+ * [Paid (but cheap) data](#cheap-data)
  
 ### US Government-based sources
 * [Data.gov](https://www.data.gov) - A repository for all data the government collects that is not private or restricted. A literal gold mine.
@@ -38,5 +39,9 @@ This list is currently loosely sorted by 'type' of data. I do not currently have
     - _a compilation of offenses reported to law enforcement agencies in the United States. Crimes included are criminal homicide, forcible rape, robbery, aggravated assault, burglary, larceny-theft, and motor vehicle theft._ 
     
 ### Fun things
-* [New York Public Library - What's on the menu?](http://menus.nypl.org) - A giant collection of 100 years worth of restaurant menus. -_thanks, [@sina_lana](https://twitter.com/sina_lana) for the heads up!_
+* [New York Public Library - What's on the menu?](http://menus.nypl.org) - A giant collection of 100 years worth of restaurant menus. 
+    - _thanks, [@sina_lana](https://twitter.com/sina_lana), for the heads up!_ 
+   
 
+### Cheap Data
+* [Bureau of Safety and Environmental Enforcement Premade Data Sets](https://www.data.bsee.gov/Other/DiscMediaStore/PremadeSets.aspx) - Relatively cheap (most sets under $35) data relating to seismic data + offshore drilling.
