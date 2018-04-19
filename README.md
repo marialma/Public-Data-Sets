@@ -38,6 +38,7 @@ This list is currently loosely sorted by 'type' of data.
     - _a compilation of offenses reported to law enforcement agencies in the United States. Crimes included are criminal homicide, forcible rape, robbery, aggravated assault, burglary, larceny-theft, and motor vehicle theft._ 
 
 ### Other
+* [EU Open Data Portal](http://data.europa.eu/euodp/en/home) - Open data published by EU institutions and bodies. All sorts of fun things in here.
 * [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com) - Contains mostly infrastructure-based geospatial data (such as schools, hospitals, airplane runways, etc). Includes shapefiles. 
     - _This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more._
 * [Harvard Dataverse](https://dataverse.harvard.edu) - Open source repository for research data. Take individual data sources here with a grain of salt, and make sure you really understand how the data was collected...
