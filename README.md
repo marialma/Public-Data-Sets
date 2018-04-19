@@ -42,10 +42,10 @@ This list is currently loosely sorted by 'type' of data.
     - _This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more._
 * [Harvard Dataverse](https://dataverse.harvard.edu) - Open source repository for research data. Take individual data sources here with a grain of salt, and make sure you really understand how the data was collected...
 * [OCC Oil and Gas Data Files](http://www.occeweb.com/og/ogdatafiles2.htm) - Data related to mining/drilling activities
+* [R package "outbreaks"](http://www.repidemicsconsortium.org/outbreaks/) - An R package compiling some publically available disease outbreak data. Useful for testing models and algorithms.
 
 ### Fun things
 * [New York Public Library - What's on the menu?](http://menus.nypl.org) - A giant collection of 100 years worth of restaurant menus. 
-    - _thanks, [@sina_lana](https://twitter.com/sina_lana), for the heads up!_ 
    
 ### Cheap Data
 * [Bureau of Safety and Environmental Enforcement Premade Data Sets](https://www.data.bsee.gov/Other/DiscMediaStore/PremadeSets.aspx) - Relatively cheap (most sets under $35) data relating to seismic data + offshore drilling.
