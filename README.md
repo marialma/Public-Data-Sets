@@ -1,5 +1,3 @@
-## Publically available data sets 
-
 As someone who's trying to build skills around data visualization and data analysis, I've gotten somewhat frustrated at not being able to find data to work with. There's a lot of publically available data out there, in formats that are intended to be useful, but it's sometimes hard to find. 
 
 Here's a small list of publically available data sources, of variable quality. DM me on [Twitter](http://twitter.com/guacamolebio) or open a pull request if you have any sources you'd like to contribute! 
