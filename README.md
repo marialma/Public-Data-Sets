@@ -44,6 +44,8 @@ This list is currently loosely sorted by 'type' of data.
 * [Harvard Dataverse](https://dataverse.harvard.edu) - Open source repository for research data. Take individual data sources here with a grain of salt, and make sure you really understand how the data was collected...
 * [OCC Oil and Gas Data Files](http://www.occeweb.com/og/ogdatafiles2.htm) - Data related to mining/drilling activities
 * [R package "outbreaks"](http://www.repidemicsconsortium.org/outbreaks/) - An R package compiling some publically available disease outbreak data. Useful for testing models and algorithms.
+* [Yemen Data Project](http://yemendataproject.org) - A project aimed at collecting data about the conduct of war in Yemen. Data about airstrike frequency, targets, times. 
+    - _overall goal of contributing independent and neutral data to increase transparency over the conduct of the war and to inform humanitarian response, human rights advocacy, media coverage and policy discussion._
 
 ### Fun things
 * [New York Public Library - What's on the menu?](http://menus.nypl.org) - A giant collection of 100 years worth of restaurant menus. 
