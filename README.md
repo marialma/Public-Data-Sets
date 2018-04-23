@@ -7,7 +7,9 @@ This list is currently loosely sorted by 'type' of data.
  * [US Government-based sources](#us-government-based-sources)
  * [World Development](#world-development)
  * [Crime and Justice](#crime-and-justice)
+ * [Health](#health)
  * [Other](#other)
+ * [Large Collections](#large-collections-of-data)
  * [Fun things](#fun-things)
  * [Paid (but cheap) data](#cheap-data)
  
@@ -31,21 +33,27 @@ This list is currently loosely sorted by 'type' of data.
 * [World Bank Open Data](https://data.worldbank.org) - Free and open access to world development data
 * [OECD Data](https://data.oecd.org/searchresults/?r=+f/type/datasets) - OECD's publication site. A myriad of databases of all sorts of development-related things. 
 * [Humanitarian Data Exchange](https://data.humdata.org) - "Humanitarian data", meaning data relevant to humanitarian crises. This could include baseline data, demographic information, data about aid organizations.
+* [Yemen Data Project](http://yemendataproject.org) - A project aimed at collecting data about the conduct of war in Yemen. Data about airstrike frequency, targets, times. 
+    - _overall goal of contributing independent and neutral data to increase transparency over the conduct of the war and to inform humanitarian response, human rights advocacy, media coverage and policy discussion._
 
 ### Crime and Justice
 * [National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/icpsrweb/content/NACJD/index.html) - Great source for data on crime and justice.
 * [Uniform Crime Reporting Program Data: Offenses Known and Clearances by Arrest, 1960-2016](https://www.openicpsr.org/openicpsr/project/100707/version/V3/view) - Reported crime data from Jacob Kaplan of the University of Pennsylvania.
     - _a compilation of offenses reported to law enforcement agencies in the United States. Crimes included are criminal homicide, forcible rape, robbery, aggravated assault, burglary, larceny-theft, and motor vehicle theft._ 
 
+### Health 
+* [SAMHSA Data Collections](https://www.samhsa.gov/data/node/20) - a variety of data related to mental health, including information about population, infrastructure, clients. 
+    - _Data helps SAMHSA and the nation assess the impact of the changes to US health care systems and identify and address behavioral health disparities._
+* [R package "outbreaks"](http://www.repidemicsconsortium.org/outbreaks/) - An R package compiling some publically available disease outbreak data. Useful for testing models and algorithms.
+
 ### Other
-* [EU Open Data Portal](http://data.europa.eu/euodp/en/home) - Open data published by EU institutions and bodies. All sorts of fun things in here.
 * [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com) - Contains mostly infrastructure-based geospatial data (such as schools, hospitals, airplane runways, etc). Includes shapefiles. 
     - _This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more._
-* [Harvard Dataverse](https://dataverse.harvard.edu) - Open source repository for research data. Take individual data sources here with a grain of salt, and make sure you really understand how the data was collected...
 * [OCC Oil and Gas Data Files](http://www.occeweb.com/og/ogdatafiles2.htm) - Data related to mining/drilling activities
-* [R package "outbreaks"](http://www.repidemicsconsortium.org/outbreaks/) - An R package compiling some publically available disease outbreak data. Useful for testing models and algorithms.
-* [Yemen Data Project](http://yemendataproject.org) - A project aimed at collecting data about the conduct of war in Yemen. Data about airstrike frequency, targets, times. 
-    - _overall goal of contributing independent and neutral data to increase transparency over the conduct of the war and to inform humanitarian response, human rights advocacy, media coverage and policy discussion._
+
+### Large Collections of Data
+* [EU Open Data Portal](http://data.europa.eu/euodp/en/home) - Open data published by EU institutions and bodies. All sorts of fun things in here.
+* [Harvard Dataverse](https://dataverse.harvard.edu) - Open source repository for research data. Take individual data sources here with a grain of salt, and make sure you really understand how the data was collected...
 
 ### Fun things
 * [New York Public Library - What's on the menu?](http://menus.nypl.org) - A giant collection of 100 years worth of restaurant menus. 
