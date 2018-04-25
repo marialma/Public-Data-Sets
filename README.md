@@ -1,3 +1,5 @@
+([< - back home](http://marialma.github.io))
+
 As someone who's trying to build skills around data visualization and data analysis, I've gotten somewhat frustrated at not being able to find data to work with. There's a lot of publically available data out there, in formats that are intended to be useful, but it's sometimes hard to find. 
 
 Here's a small list of publically available data sources, of variable quality. DM me on [Twitter](http://twitter.com/guacamolebio) or open a pull request if you have any sources you'd like to contribute! 
@@ -39,6 +41,7 @@ This list is currently loosely sorted by 'type' of data.
 * [National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/icpsrweb/content/NACJD/index.html) - Great source for data on crime and justice.
 * [Uniform Crime Reporting Program Data: Offenses Known and Clearances by Arrest, 1960-2016](https://www.openicpsr.org/openicpsr/project/100707/version/V3/view) - Reported crime data from Jacob Kaplan of the University of Pennsylvania.
     - _a compilation of offenses reported to law enforcement agencies in the United States. Crimes included are criminal homicide, forcible rape, robbery, aggravated assault, burglary, larceny-theft, and motor vehicle theft._ 
+* [Police, Prostitution and Politics](http://www.policeprostitutionandpolitics.com/end_demand_stats_all/2016_operation_do_the_math/2016_Part_III_A_Do_the_Math_2016.pdf) - State by state breakdown of prostitution arrests and child sex trafficking cases from 2000 to 2015. A thousand apologies, for this one is a PDF. 
 
 ### Health 
 * [SAMHSA Data Collections](https://www.samhsa.gov/data/node/20) - a variety of data related to mental health, including information about population, infrastructure, clients.  (Government source, but felt like it belonged here)
