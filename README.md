@@ -29,6 +29,8 @@ This list is currently loosely sorted by 'type' of data.
     - _A collection of data sets that have been donated by various universities, agencies, or companies. The data repository focuses exclusively on prognostic data sets, i.e., data sets that can be used for development of prognostic algorithms. Mostly these are time series of data from some nominal state to a failed state. The collection of data in this repository is an ongoing process._
 * [NCEI Land-based Station Data](https://www.ncdc.noaa.gov/data-access/land-based-station-data) - A whole lot of weather data.
     - _Land-based observations are collected from instruments sited at locations on every continent. They include temperature, dew point, relative humidity, precipitation, wind speed and direction, visibility, atmospheric pressure, and types of weather occurrences such as hail, fog, and thunder._
+* [Rural-Urban Commuting Area Codes](https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes.aspx) - Super interesting to look at other place data with this
+    - _The rural-urban commuting area (RUCA) codes classify U.S. census tracts using measures of population density, urbanization, and daily commuting. The most recent RUCA codes are based on data from the 2010 decennial census and the 2006-10 American Community Survey. The classification contains two levels. Whole numbers (1-10) delineate metropolitan, micropolitan, small town, and rural commuting areas based on the size and direction of the primary (largest) commuting flows._
 
 ### World Development 
 * [World Bank Open Data](https://data.worldbank.org) - Free and open access to world development data
