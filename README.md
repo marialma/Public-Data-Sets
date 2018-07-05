@@ -38,6 +38,10 @@ This list is currently loosely sorted by 'type' of data.
 * [Humanitarian Data Exchange](https://data.humdata.org) - "Humanitarian data", meaning data relevant to humanitarian crises. This could include baseline data, demographic information, data about aid organizations.
 * [Yemen Data Project](http://yemendataproject.org) - A project aimed at collecting data about the conduct of war in Yemen. Data about airstrike frequency, targets, times. 
     - _overall goal of contributing independent and neutral data to increase transparency over the conduct of the war and to inform humanitarian response, human rights advocacy, media coverage and policy discussion._
+* [PRIO - Peace Research Institute Oslo](https://www.prio.org/Data/) - PRIO makes their datasets publically available for replication and such. Lots of really good stuff in there. 
+    - _The Peace Research Institute Oslo (PRIO) conducts research on the conditions for peaceful relations between states, groups and people._
+* [Armed Conflict Location & Event Data Project](https://www.acleddata.com) - Extensive, regularly updated dataset on armed conflict across the world. 
+    - _Political violence and protest includes events that occur within civil wars and periods of instability, public protest and regime breakdown. ACLED’s aim is to capture the forms, actors, dates and locations of political violence and protest as it occurs across states. The ACLED team conducts analysis to describe, explore and test conflict scenarios, and makes both data and analysis open to freely use by the public._
 
 ### Crime and Justice
 * [National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/icpsrweb/content/NACJD/index.html) - Great source for data on crime and justice.
