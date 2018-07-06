@@ -59,6 +59,7 @@ This list is currently loosely sorted by 'type' of data.
 * [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com) - Contains mostly infrastructure-based geospatial data (such as schools, hospitals, airplane runways, etc). Includes shapefiles. 
     - _This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more._
 * [OCC Oil and Gas Data Files](http://www.occeweb.com/og/ogdatafiles2.htm) - Data related to mining/drilling activities
+* [International Institue of Tropical Agriculture (IITA) data repository](http://www.iita.org/knowledge/open-access/) - open access ag data for tropical agriculture
 
 ### Large Collections of Data
 * [EU Open Data Portal](http://data.europa.eu/euodp/en/home) - Open data published by EU institutions and bodies. All sorts of fun things in here.
