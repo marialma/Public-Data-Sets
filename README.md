@@ -62,6 +62,7 @@ This list is currently loosely sorted by 'type' of data.
     - _This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more._
 * [OCC Oil and Gas Data Files](http://www.occeweb.com/og/ogdatafiles2.htm) - Data related to mining/drilling activities
 * [International Institue of Tropical Agriculture (IITA) data repository](http://www.iita.org/knowledge/open-access/) - open access ag data for tropical agriculture
+* [UN Comtrade](https://comtrade.un.org/data/) International trade data. It is a repository of official international trade statistics and relevant analytical tables. Easiest to get your data through an API. It's got some neat visualizations as well.
 
 ### Large Collections of Data
 * [EU Open Data Portal](http://data.europa.eu/euodp/en/home) - Open data published by EU institutions and bodies. All sorts of fun things in here.
