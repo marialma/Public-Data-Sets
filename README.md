@@ -49,6 +49,8 @@ This list is currently loosely sorted by 'type' of data.
 * [Uniform Crime Reporting Program Data: Offenses Known and Clearances by Arrest, 1960-2016](https://www.openicpsr.org/openicpsr/project/100707/version/V3/view) - Reported crime data from Jacob Kaplan of the University of Pennsylvania.
     - _a compilation of offenses reported to law enforcement agencies in the United States. Crimes included are criminal homicide, forcible rape, robbery, aggravated assault, burglary, larceny-theft, and motor vehicle theft._ 
 * [Police, Prostitution and Politics](http://www.policeprostitutionandpolitics.com/end_demand_stats_all/2016_operation_do_the_math/2016_Part_III_A_Do_the_Math_2016.pdf) - State by state breakdown of prostitution arrests and child sex trafficking cases from 2000 to 2015. A thousand apologies, for this one is a PDF. 
+* [American Violence](https://www.americanviolence.org) - Contains data (that you can filter and download) on violence statistics in the US
+    - _Public resource that will make data on violence accessible ... , allowing users to visualize and analyze trends in violence at multiple geographic levels (neighborhoods and cities) and over different timeframes (month to month, year to year, decade to decade)._
 
 ### Health 
 * [SAMHSA Data Collections](https://www.samhsa.gov/data/node/20) - a variety of data related to mental health, including information about population, infrastructure, clients.  (Government source, but felt like it belonged here)
