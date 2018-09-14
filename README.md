@@ -58,6 +58,7 @@ This list is currently loosely sorted by 'type' of data.
 * [CDC NHANES survey](https://www.cdc.gov/nchs/nhanes/index.htm) - cross-sectional survey of health & nutritional status of the US population. **Make sure you understand the survey methods!** (Government source, but felt like it belonged here)
 * [R package "outbreaks"](http://www.repidemicsconsortium.org/outbreaks/) - An R package compiling some publically available disease outbreak data. Useful for testing models and algorithms.
 * [Vanderbilt Biostats Datasets](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - a goldmine collection of datasets- conveniently formatted, too
+* [CDC WONDER](https://wonder.cdc.gov) - A bunch of good datasets. "Ad hoc query system". This is the only place I found yearly STD data going back to 1995.
 
 ### Other
 * [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-geoplatform.opendata.arcgis.com) - Contains mostly infrastructure-based geospatial data (such as schools, hospitals, airplane runways, etc). Includes shapefiles. 
