@@ -43,6 +43,7 @@ This list is currently loosely sorted by 'type' of data.
 * [Armed Conflict Location & Event Data Project](https://www.acleddata.com) - Extensive, regularly updated dataset on armed conflict across the world. 
     - _Political violence and protest includes events that occur within civil wars and periods of instability, public protest and regime breakdown. ACLED’s aim is to capture the forms, actors, dates and locations of political violence and protest as it occurs across states. The ACLED team conducts analysis to describe, explore and test conflict scenarios, and makes both data and analysis open to freely use by the public._
 * [The DHS Program](https://www.dhsprogram.com/data/available-datasets.cfm) - nationally representative survey data for a bunch of countries. Really amazing source. HT to [Tom Fish](https://twitter.com/RealGuerillero).
+* [World Bank - Health Equity and Financial Protection](https://datacatalog.worldbank.org/dataset/hefpi)- _This dataset contains information on health service coverage, health outcomes and financial protection from excess out-of-pocked medical spending at country level._
 
 ### Crime and Justice
 * [National Archive of Criminal Justice Data](https://www.icpsr.umich.edu/icpsrweb/content/NACJD/index.html) - Great source for data on crime and justice.
